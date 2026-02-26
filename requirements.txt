@@ -1,0 +1,4 @@
+streamlit
+streamlit[charts]
+numpy
+matplotlib >= 3.0
